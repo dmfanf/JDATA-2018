@@ -9,4 +9,4 @@ rank:30
 - ensemble models using stacking method
  model_stacking.py
 - ensemble the results of xgb and stacking with weighted average
- - model weighted.py
+ model weighted.py
